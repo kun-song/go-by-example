@@ -21,7 +21,7 @@
 * [Pointers](./snippets/pointers.go)
 * [Structs](./snippets/structs.go)
 * [Methods](./snippets/methods.go)
-* [Interfaces](./snippets/Interfaces.go)
+* [Interfaces](./snippets/interfaces.go)
 * [Errors](./snippets/errors.go)
 * [Goroutines](./snippets/goroutines.go)
 * [Channels](./snippets/channels.go)
