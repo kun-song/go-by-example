@@ -16,7 +16,7 @@
 * [Functions](./snippets/functions.go)
 * [Multiple Return Values](./snippets/multiple_return_values.go)
 * [Variadic Functions](./snippets/variadic_functions.go)
-* [Closures](./snippets/closures.go)
+* [Closures](./snippets/closure.go)
 * [Recursion](./snippets/recursion.go)
 * [Pointers](./snippets/pointers.go)
 * [Structs](./snippets/structs.go)
