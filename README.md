@@ -51,3 +51,13 @@
 * [JSON](./snippets/json.go)
 * [Time](./snippets/time.go)
 * [Epoch](./snippets/epoch.go)
+* [Time Formatting / Parsing](./snippets/time_formatting_parsing.go)
+* [Random Numbers](./snippets/random_numbers.go)
+* [Number Parsing](./snippets/number_parsing.go)
+* [URL Parsing](./snippets/url_parsing.go)
+* [SHA1 Hashes](./snippets/sha1_hashes.go)
+* [Base64 Encoding](./snippets/base64_encoding.go)
+* Reading Files
+* Writing Files
+* [Line Filters](./snippets/line_filters.go)
+* [Command-Line Arguments](./snippets/command_line_arguments.go)
